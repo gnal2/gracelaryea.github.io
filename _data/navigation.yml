@@ -3,10 +3,10 @@ main:
   - title: "CV"
     url: /publications/
 
-  - title: "Portfolio"
+  - title: "Courses"
     url: /talks/    
 
-  - title: "Courses"
+  - title: "Technical Reports and Presentations"
     url: /teaching/    
     
   - title: "Volunteering"
