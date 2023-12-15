@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Actuarial Science, University of Kent, 2022
+* M.S. in Quantitative Finance, Bayes Business School, Formerly CASS, 2024
 
-Work experience
+Internship
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Data Developer
+  * River Global Investors
+  * Duties included: Data cleaning, automation and reporting using SQL server
+  * Supervisor: Aadil Parwaiz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Business Analyst
+  * Investment Software Group
+  * Duties included: Debugging software, Writing of userguides and user stories as well as providing solutions advisory to clients.
+
+
   
 Skills
 ======
