@@ -9,10 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Actuarial Science, University of Kent, 2022
 * M.S. in Quantitative Finance, Bayes Business School, Formerly CASS, 2024
+
+
 
 Traineeship
 ======
