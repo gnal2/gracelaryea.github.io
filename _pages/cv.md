@@ -14,6 +14,14 @@ Education
 * B.S. in Actuarial Science, University of Kent, 2022
 * M.S. in Quantitative Finance, Bayes Business School, Formerly CASS, 2024
 
+Traineeship
+======
+* Fall 2022 - Fall 2023: Hedge Fund Credit Risk
+  * Societe Generale Corporate & Investment Banking (SGCIB)
+  * Duties Included: Due diligence, Credit Reporting and rating of Hedge funds, PTG's, FoF, FoHF and Hedge fund strategies.
+  
+
+
 Internship
 ======
 * Summer 2022: Data Developer
