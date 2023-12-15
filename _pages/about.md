@@ -13,6 +13,12 @@ Recently I worked as a Hedge Fund Credit Risk Analyst at [Societe Generale Corpo
 
 
 Research Interests
-------
+======
+* Forecasting and prediction techniques
+* Machine learning and its applications in Finance
+* Time series simulation
+* Pricing techniques
+
+
 
 
