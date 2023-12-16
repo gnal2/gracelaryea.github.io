@@ -7,7 +7,7 @@ date: 2023-12-01
 venue: 'Fall Assessment_ Foundations of Econometrics'
 paperurl: 'http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf'
 ---
-This report details how : lp1q=ln (EURO STOXX50), lp2q=ln (HANG SENG), lp3q=ln(CAC40), and lp4q=ln(NIKKEI225) time series models are estimated, with the modelling of volatility through ARMA, GARCH and OLS regression methods.
+This report details how EURO STOXX50, HANG SENG, CAC40, and NIKKEI225 time series models are estimated, with the modelling of volatility through ARMA, GARCH and OLS regression methods.
 
 
 [View paper here](http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf)
