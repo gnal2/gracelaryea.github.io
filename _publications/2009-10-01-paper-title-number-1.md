@@ -9,5 +9,5 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 This paper is about how to estimate time series models, forecasting of financial and economic data, and the modelling of stock indexes volatility through ARMA, GARCH and OLS regression methods
 
-[Download paper here](http://academicpages.github.io/files/Foundations of Econometrics Coursework.pdf)
+
 [Download paper here](http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf)
