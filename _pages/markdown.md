@@ -9,8 +9,8 @@ redirect_from:
 
 ## Quantitative Finance Modules
 
-| Course Name                               | Year   |     Description                                              |
-| --------                                  | ------ | ------------------------------------------------------------ |
+| Course Name                               | Year      |     Description                                              |
+| --------                                  | ------    | ------------------------------------------------------------ |
 | [Asset Pricing](#)                        | 2023/24   | Description of the item in the list                          |
 | [Derivatives](#)                          | 2023/24   | Description of the item in the list                          |
 | [Stochastic Modelling in Finance](#)      | 2023/24   | Description of the item in the list                          |
@@ -18,7 +18,7 @@ redirect_from:
 | [Foundations of Econometrics](#)          | 2023/24   | Description of the item in the list                          |
 | [Econometrics for financila markets](#)   | 2023/24   | Description of the item in the list                          |
 | [Numerical methods](#)                    | 2023/24   | Description of the item in the list                          |
-| [Fixed Income](#)                         | 2023/24  | Description of the item in the list                          |
+| [Fixed Income](#)                         | 2023/24   | Description of the item in the list                          |
 | [Risk Analysis](#)                        | 2023/24   | Description of the item in the list                          |
 
 
