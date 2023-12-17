@@ -48,7 +48,7 @@ redirect_from:
 | [Time Seies Modelling & Simulation](#)         | 2021/22 | Description of the item in the list                          |
 | [Stochastic Processes](#)                      | 2021/22 | Description of the item in the list                          |
 | [Actuarial Practice 2](#)                      | 2021/22 | Description of the item in the list                          |
-| [Optimisation with Financial Applications](#)  | 2021/22 | Description of the item in the list                          |
+| [Financial Modelling](#)                       | 2021/22 | Description of the item in the list                          |
 
 
 
