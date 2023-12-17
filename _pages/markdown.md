@@ -24,43 +24,31 @@ redirect_from:
 
 ## Actuarial Science Modules
 
-| Course Name                               | Year    |     Description                                              |
-|-------------------------------------------| ------- | ------------------------------------------------------------ |
-| [Business Economics](#)                   | 2019/20 | Description of the item in the list                          |
-| [Financial Mathematics](#)                | 2019/20 | Description of the item in the list                          |
-| [Actuarial Practice 1](#)                 | 2019/20 | Description of the item in the list                          |
-| [Linear Mathematics](#)                   | 2019/20 | Description of the item in the list                          |
-| [Mathematical Methods I and II](#)        | 2019/20 | Description of the item in the list                          |
-| [Probability](#)                          | 2019/20 | Description of the item in the list                          |
-| [Statistics](#)                           | 2019/20 | Description of the item in the list                          |
-
-
-
-## Stage 2 Modules
-| Course Name                                    | Year      |     Description                                              |
-| ---------------------------------------------- | --------- | ------------------------------------------------------------ |
-| [Actuarial Mathematics 1](#)                   | 2020/21   | Description of the item in the list                          |
-| [Corporate Finance for Actuaries](#)           | 2020/21   | Description of the item in the list                          |
-| [Financial Reports and Analysis](#)            | 2020/21   | Description of the item in the list                          |
-| [Applied Statistical Modelling](#)             | 2020/21   | Description of the item in the list                          |
-| [Mathematical Statistics](#)                   | 2020/21   | Description of the item in the list                          |
-| [Statistics for Insurance](#)                  | 2020/21   | Description of the item in the list                          |
-| [Linear Partial Differential Equations](#)     | 2020/21   | Description of the item in the list                          |
-| [Optimisation with Financial Applications](#)  | 2020/21   | Description of the item in the list                          |
-
-
-
-## Stage 3 Modules
-| Course Name                                    | Year      |     Description                                              |
-| ---------------------------------------------- | --------- | ------------------------------------------------------------ |
-| [Actuarial Mathematics 1](#)                   | 2021/22   | Description of the item in the list                          |
-| [Corporate Finance for Actuaries](#)           | 2021/22   | Description of the item in the list                          |
-| [Financial Reports and Analysis](#)            | 2021/22   | Description of the item in the list                          |
-| [Applied Statistical Modelling](#)             | 2021/22   | Description of the item in the list                          |
-| [Mathematical Statistics](#)                   | 2021/22   | Description of the item in the list                          |
-| [Statistics for Insurance](#)                  | 2021/22   | Description of the item in the list                          |
-| [Linear Partial Differential Equations](#)     | 2021/22   | Description of the item in the list                          |
-| [Optimisation with Financial Applications](#)  | 2021/22   | Description of the item in the list                          |
+| Course Name                                    | Year    |     Description                                              |
+|-------------------------------------------     | ------- | ------------------------------------------------------------ |
+| [Business Economics](#)                        | 2019/20 | Description of the item in the list                          |
+| [Financial Mathematics](#)                     | 2019/20 | Description of the item in the list                          |
+| [Actuarial Practice 1](#)                      | 2019/20 | Description of the item in the list                          |
+| [Linear Mathematics](#)                        | 2019/20 | Description of the item in the list                          |
+| [Mathematical Methods I and II](#)             | 2019/20 | Description of the item in the list                          |
+| [Probability](#)                               | 2019/20 | Description of the item in the list                          |
+| [Statistics](#)                                | 2019/20 | Description of the item in the list                          |
+| [Actuarial Mathematics 1](#)                   | 2020/21 | Description of the item in the list                          |
+| [Corporate Finance for Actuaries](#)           | 2020/21 | Description of the item in the list                          |
+| [Financial Reports and Analysis](#)            | 2020/21 | Description of the item in the list                          |
+| [Applied Statistical Modelling](#)             | 2020/21 | Description of the item in the list                          |
+| [Mathematical Statistics](#)                   | 2020/21 | Description of the item in the list                          |
+| [Statistics for Insurance](#)                  | 2020/21 | Description of the item in the list                          |
+| [Linear Partial Differential Equations](#)     | 2020/21 | Description of the item in the list                          |
+| [Optimisation with Financial Applications](#)  | 2020/21 | Description of the item in the list                          |
+| [Actuarial Mathematics 1](#)                   | 2021/22 | Description of the item in the list                          |
+| [Corporate Finance for Actuaries](#)           | 2021/22 | Description of the item in the list                          |
+| [Financial Reports and Analysis](#)            | 2021/22 | Description of the item in the list                          |
+| [Applied Statistical Modelling](#)             | 2021/22 | Description of the item in the list                          |
+| [Mathematical Statistics](#)                   | 2021/22 | Description of the item in the list                          |
+| [Statistics for Insurance](#)                  | 2021/22 | Description of the item in the list                          |
+| [Linear Partial Differential Equations](#)     | 2021/22 | Description of the item in the list                          |
+| [Optimisation with Financial Applications](#)  | 2021/22 | Description of the item in the list                          |
 
 
 
