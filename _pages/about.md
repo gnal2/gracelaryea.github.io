@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Recently I worked as a Hedge Fund Credit Risk Analyst at [Societe Generale Corporate and Investment Banking (SGCIB)](https://www.societegenerale.co.uk/en/), I contributed to the monitoring and reporting of the credit risk exposure of a portfolio of hedge funds, using VBA programming and Excel skills. 
+Recently I worked as a Hedge Fund Credit Risk Analyst at [Societe Generale Corporate and Investment Banking (SGCIB)](https://www.societegenerale.co.uk/en/), contributing to the monitoring and reporting of the credit risk exposures of hedge funds, using VBA. 
 
 I hold a BSc (Hons) in Actuarial Science from [University of Kent](https://www.kent.ac.uk/courses/undergraduate/7/actuarial-science), and I am currently pursuing a MSc in Quantitative Finance at [Bayes Business School](https://www.bayes.city.ac.uk/study/masters/courses/quantitative-finance), where I am enhancing my knowledge and skills in financial modeling, research, risk analysis, and data science. 
 
