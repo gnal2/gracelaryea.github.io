@@ -41,13 +41,13 @@ redirect_from:
 | [Statistics for Insurance](#)                  | 2020/21 | Description of the item in the list                          |
 | [Linear Partial Differential Equations](#)     | 2020/21 | Description of the item in the list                          |
 | [Optimisation with Financial Applications](#)  | 2020/21 | Description of the item in the list                          |
-| [Actuarial Mathematics 1](#)                   | 2021/22 | Description of the item in the list                          |
-| [Corporate Finance for Actuaries](#)           | 2021/22 | Description of the item in the list                          |
-| [Financial Reports and Analysis](#)            | 2021/22 | Description of the item in the list                          |
-| [Applied Statistical Modelling](#)             | 2021/22 | Description of the item in the list                          |
-| [Mathematical Statistics](#)                   | 2021/22 | Description of the item in the list                          |
-| [Statistics for Insurance](#)                  | 2021/22 | Description of the item in the list                          |
-| [Linear Partial Differential Equations](#)     | 2021/22 | Description of the item in the list                          |
+| [Actuarial Mathematics 2](#)                   | 2021/22 | Description of the item in the list                          |
+| [Survival Analysis](#)                         | 2021/22 | Description of the item in the list                          |
+| [Financial Economics](#)                       | 2021/22 | Description of the item in the list                          |
+| [Mathematics of Derivatives](#)                | 2021/22 | Description of the item in the list                          |
+| [Time Seies Modelling & Simulation](#)         | 2021/22 | Description of the item in the list                          |
+| [Stochastic Processes](#)                      | 2021/22 | Description of the item in the list                          |
+| [Actuarial Practice 2](#)                      | 2021/22 | Description of the item in the list                          |
 | [Optimisation with Financial Applications](#)  | 2021/22 | Description of the item in the list                          |
 
 
