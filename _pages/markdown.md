@@ -35,6 +35,7 @@ redirect_from:
 | [Statistics](#)                           | 2019/20 | Description of the item in the list                          |
 
 
+
 ## Stage 2 Modules
 | Course Name                                    | Year      |     Description                                              |
 | ---------------------------------------------- | --------- | ------------------------------------------------------------ |
@@ -46,6 +47,7 @@ redirect_from:
 | [Statistics for Insurance](#)                  | 2020/21   | Description of the item in the list                          |
 | [Linear Partial Differential Equations](#)     | 2020/21   | Description of the item in the list                          |
 | [Optimisation with Financial Applications](#)  | 2020/21   | Description of the item in the list                          |
+
 
 
 ## Stage 3 Modules
