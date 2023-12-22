@@ -3,7 +3,7 @@ title: "Statistics"
 collection: publications
 permalink: /publication/Statistics Assessment
 excerpt: 'This assessment report is based on a group analysis of UK election data using R'
-date: 2023-04-01
+date: Spring 2020
 venue: 'Statistics - Kent Assessment'
 paperurl: 'http://gnal2.github.io/files/Statistics Assessment - Election Data.pdf'
 ---
