@@ -1,5 +1,5 @@
 ---
-title: "Financial Economics Assessment"
+title: "MA535 - Financial Economics Assessment"
 collection: publications
 permalink: /publication/Financial Economics Assessment
 excerpt: 'In the MA535/MA835 assessment - I tracked down crucial data on Lion Electric Co., American Airlines, and New Germany Fund, unraveling their price histories and uncovering hidden relationships.'
