@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about how to estimate time series models and simulation in R'
 date: 2023-12-01
-venue: 'Fall Assessment_ Foundations of Econometrics'
+venue: 'Fall Time Series'
 paperurl: 'http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf'
 ---
 This paper is about how to estimate time series models and simulation in R.
