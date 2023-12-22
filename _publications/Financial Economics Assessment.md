@@ -7,7 +7,8 @@ date: 2022-02-01
 venue: 'Financial Economics - Kent Assessments'
 paperurl: 'http://gnal2.github.io/files/Financial Economics and Asset and Liability Modelling.pdf'
 ---
-inancial Economics and Asset and Liability Modelling
+
+Financial Economics and Asset and Liability Modelling
 ====
 
 This MA535/MA85 assessment wasn't just about numbers on a page; it was a thrilling detective hunt through the labyrinthine world of finance. Fueled by curiosity and armed with the tools of modern portfolio theory (MVPT) and the Capital Asset Pricing Model (CAPM), I embarked on a mission to uncover the secrets of optimal investment strategies.
