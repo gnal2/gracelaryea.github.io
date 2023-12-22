@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Coursework / Projects"
-permalink: /publications/
+permalink: /Relevant Projects/
 author_profile: true
 ---
 
