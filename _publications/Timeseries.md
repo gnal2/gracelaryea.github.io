@@ -1,9 +1,9 @@
 ---
 title: "Time Series and Simulation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Timeseries
 excerpt: 'This paper is about how to estimate time series models and simulation in R'
-date: 2023-12-01
+date: 2022-02-01
 venue: 'Fall Time Series'
 paperurl: 'http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf'
 ---
