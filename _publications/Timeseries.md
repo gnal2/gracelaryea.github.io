@@ -1,5 +1,5 @@
 ---
-title: "Time Series Modelling and Simulation"
+title: "MA639 - Time Series Modelling and Simulation"
 collection: publications
 permalink: /publication/Timeseries
 excerpt: 'My Time Series Modeling course assessment had me simulating data, unearthing hidden patterns, and fitting ARMA models like a data detective. I wielded R as my weapon, ultimately choosing the best model and ensuring its reign through rigorous testing. Buckle up for a whirlwind tour of time series analysis!'
