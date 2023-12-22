@@ -1,7 +1,7 @@
 ---
 title: "SMM270 - Foundations of Econometrics"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Foundations-of-Econometrics
 excerpt: 'This paper is about how to estimate time series models, forecasting of financial and economic data, and the modelling of stock indexes volatility through ARMA, GARCH and OLS regression methods'
 date: 2023-12-01
 venue: 'Fall Assessment_ Foundations of Econometrics'
