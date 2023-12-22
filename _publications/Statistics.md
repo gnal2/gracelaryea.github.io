@@ -19,7 +19,3 @@ Unveiling Trends in UK Elections: Vote, Age, Gender, and Beyond
 This report is your passport to understanding the dynamics of UK elections, revealing historical trends and prompting reflection on representation and potential biases. Get ready for surprising insights and thought-provoking analysis!
 
 [Download paper here](http://gnal2.github.io/files/Statistics Assessment - Election Data.pdf)
-
-
-
-
