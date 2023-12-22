@@ -1,22 +1,23 @@
 ---
-title: "Financial Economics"
+title: "Financial Economics Assessment"
 collection: publications
-permalink: /publication/Financial Economics
-excerpt: '.'
-date: 2021-02-01
+permalink: /publication/Financial Economics Assessment
+excerpt: 'm'
+date: 2023-04-01
 venue: 'Financial Economics - Kent Assessment'
-paperurl: 'http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf'
+paperurl: 'http://gnal2.github.io/files/Financial Economics and Asset and Liability Modelling.pdf'
 ---
-Unveiling Hidden Connections in Stock Markets: A Foundations of Econometrics Coursework Deep Dive
+
+
+Financial Economics and Asset and Liability Modelling
 ====
 
-In this group coursework for MSc in FM/MTF/QF, we'll embark on a journey to uncover intricate relationships within financial markets. Using OxMetrics9, we'll analyze a rich dataset of four daily stock price indices spanning two decades. Get ready to flex your econometrics muscles as we tackle these exciting challenges:
+This MA535/MA85 assessment wasn't just about numbers on a page; it was a thrilling detective hunt through the labyrinthine world of finance. Fueled by curiosity and armed with the tools of modern portfolio theory (MVPT) and the Capital Asset Pricing Model (CAPM), I embarked on a mission to uncover the secrets of optimal investment strategies.
 
-Data Transformation and Stationarity: We'll carefully prepare the data, transforming it into quarterly averages and logarithmic form, before assessing its stationarity using unit root tests.
-Model Specification and Selection: We'll explore a range of autoregressive distributed lags (ADL) models to capture the relationship between EURO STOXX 50 and NIKKEI 225, meticulously selecting the best fit based on misspecification tests.
-Cointegration vs Spurious Regression: We'll dive into the delicate dance between cointegration and spurious correlation, investigating whether CAC40 and NIKKEI 225 truly cointegrate or merely exhibit superficial connections.
-Granger Causality: We'll unravel the potential causal influence of NIKKEI 225 on other stock prices, shedding light on predictive dynamics within the markets.
-ARCH and GARCH Modeling: We'll delve into volatility modeling using ARCH and GARCH techniques, accounting for time-varying conditional variances and enhancing risk management strategies
+My first stop was the bustling marketplace of historical data. Tracking down crucial details on Lion Electric Co., American Airlines, and New Germany Fund, I meticulously pieced together their price histories, searching for hidden patterns and revealing their interdependencies. From calculating daily returns and their volatile dances to untangling the web of covariances and correlations, I built a map of their intricate relationships.
 
+Next, I donned the mantle of a portfolio architect, wielding MVPT as my blueprint. Balancing risk and reward with precise calculations, I explored a universe of potential investments. Using Data Tables and scatter plots as my tools, I charted the efficient frontier, that elusive border between risk and return. Finally, with precision and analysis, I pinpointed the holy grail – the minimum variance portfolio, the crown jewel of diversification.
 
-[View paper here](http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf)
+With CAPM, I ventured into the murky waters of market equilibrium. Analyzing economic assumptions and their delicate balance, I explored the forces shaping the financial landscape. Calculating expected returns and standard deviations, I predicted the future movements of the market with newfound confidence. Finally, I unraveled the security market line, a roadmap for navigating the optimal risk-return combinations within the market.
+
+[Download paper here](http://gnal2.github.io/files/Financial Economics and Asset and Liability Modelling.pdf)
