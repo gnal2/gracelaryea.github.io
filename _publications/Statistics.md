@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/Statistics Assessment
 excerpt: 'This assessment report is based on a group analysis of UK election data using R'
 date: Spring 2020
+venue: 'Statistics - Kent Assessment'
 paperurl: 'http://gnal2.github.io/files/Statistics Assessment - Election Data.pdf'
 ---
 Unveiling Trends in UK Elections: Vote, Age, Gender, and Beyond
