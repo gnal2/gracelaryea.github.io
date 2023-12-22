@@ -1,10 +1,10 @@
 ---
-title: "SMM270 - Foundations of Econometrics"
+title: "Financial Economics"
 collection: publications
-permalink: /publication/Foundations-of-Econometrics
-excerpt: 'Foundations of Econometrics coursework - This group project tackles real-world stock market data: daily prices, complex models, and rigorous testing. Expect data transformations, stationarity checks, cointegration mysteries, and Granger causality investigations. Prepare to wield econometrics tools like ADL, GARCH, and LM tests to unlock hidden relationships and navigate market complexities. Eight pages of intensive analysis await!'
-date: 2023-12-01
-venue: 'Fall Assessment_ Foundations of Econometrics'
+permalink: /publication/Financial Economics
+excerpt: 'In the MA535/MA835 assessment - I tracked down crucial data on Lion Electric Co., American Airlines, and New Germany Fund, unraveling their price histories and uncovering hidden relationships. Armed with modern portfolio theory (MVPT) and the Capital Asset Pricing Model (CAPM), I crafted optimal investment strategies, minimizing risk while maximizing returns. From navigating efficient frontiers to pinpointing the elusive minimum variance portfolio, this journey pushed my analytical powers to the limit. Now, with clear results and insightful interpretations, I'm ready to share my financial discoveries! Stay tuned for a glimpse into the fascinating world of portfolio optimization and market equilibrium.'
+date: 2021-02-01
+venue: 'Financial Economics - Kent Assessment'
 paperurl: 'http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf'
 ---
 Unveiling Hidden Connections in Stock Markets: A Foundations of Econometrics Coursework Deep Dive
