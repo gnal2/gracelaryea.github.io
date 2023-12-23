@@ -22,7 +22,7 @@ Traineeship
 * Fall 2022 - Fall 2023: Hedge Fund Credit Risk
   * Societe Generale Corporate & Investment Banking (SGCIB)
   * Duties Included: Due diligence, Credit Reporting and rating of Hedge funds, PTG's, FoF, FoHF and Hedge fund strategies.
-  * Supervisor: Luke Standen (Deputy Head of Hedge fund Credit Risk)
+  * Supervisor: (Deputy Head of Hedge fund Credit Risk)
   
 
 
@@ -32,12 +32,12 @@ Internship
 * Summer 2022: Data Developer
   * River Global Investors
   * Duties included: Data cleaning, automation and reporting using SQL server
-  * Supervisor: Aadil Parwaiz (Head of Data Development)
+  * Supervisor: (Head of Data Development)
 
 * Summer 2021: Business Analyst
   * Investment Software Group
   * Duties included: Debugging software, Writing of userguides and user stories as well as providing solutions advisory to clients.
-  * Supervisor: Imran Khan (Managing Director)
+  * Supervisor: (Managing Director)
 
 
   
