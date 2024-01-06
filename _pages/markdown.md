@@ -9,17 +9,17 @@ redirect_from:
 
 ## Quantitative Finance Modules
 
-| Course Name                               | Year      |     Description                                              |
-| --------                                  | ------    | ------------------------------------------------------------ |
-| [Asset Pricing](#)                        | 2023/24   | Description of the item in the list                          |
-| [Derivatives](#)                          | 2023/24   | Description of the item in the list                          |
-| [Stochastic Modelling in Finance](#)      | 2023/24   | Description of the item in the list                          |
-| [Programming for Quants](#)               | 2023/24   | Description of the item in the list                          |
-| [Foundations of Econometrics](#)          | 2023/24   | Description of the item in the list                          |
-| [Econometrics for financila markets](#)   | 2023/24   | Description of the item in the list                          |
-| [Numerical methods](#)                    | 2023/24   | Description of the item in the list                          |
-| [Fixed Income](#)                         | 2023/24   | Description of the item in the list                          |
-| [Risk Analysis](#)                        | 2023/24   | Description of the item in the list                          |
+| Course Name                               | Year      |
+| --------                                  | ------    |
+| [Asset Pricing](#)                        | 2023/24   |
+| [Derivatives](#)                          | 2023/24   |
+| [Stochastic Modelling in Finance](#)      | 2023/24   |
+| [Programming for Quants](#)               | 2023/24   |
+| [Foundations of Econometrics](#)          | 2023/24   |
+| [Econometrics for financila markets](#)   | 2023/24   |
+| [Numerical methods](#)                    | 2023/24   |
+| [Fixed Income](#)                         | 2023/24   |
+| [Risk Analysis](#)                        | 2023/24   |
 
 
 ## Actuarial Science Modules
