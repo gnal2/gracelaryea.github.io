@@ -24,31 +24,31 @@ redirect_from:
 
 ## Actuarial Science Modules
 
-| Course Name                                    | Year    |     Description                                              |
-|-------------------------------------------     | ------- | ------------------------------------------------------------ |
-| [Business Economics](#)                        | 2019/20 | Description of the item in the list                          |
-| [Financial Mathematics](#)                     | 2019/20 | Description of the item in the list                          |
-| [Actuarial Practice 1](#)                      | 2019/20 | Description of the item in the list                          |
-| [Linear Mathematics](#)                        | 2019/20 | Description of the item in the list                          |
-| [Mathematical Methods I and II](#)             | 2019/20 | Description of the item in the list                          |
-| [Probability](#)                               | 2019/20 | Description of the item in the list                          |
-| [Statistics](#)                                | 2019/20 | Description of the item in the list                          |
-| [Actuarial Mathematics 1](#)                   | 2020/21 | Description of the item in the list                          |
-| [Corporate Finance for Actuaries](#)           | 2020/21 | Description of the item in the list                          |
-| [Financial Reports and Analysis](#)            | 2020/21 | Description of the item in the list                          |
-| [Applied Statistical Modelling](#)             | 2020/21 | Description of the item in the list                          |
-| [Mathematical Statistics](#)                   | 2020/21 | Description of the item in the list                          |
-| [Statistics for Insurance](#)                  | 2020/21 | Description of the item in the list                          |
-| [Linear Partial Differential Equations](#)     | 2020/21 | Description of the item in the list                          |
-| [Optimisation with Financial Applications](#)  | 2020/21 | Description of the item in the list                          |
-| [Actuarial Mathematics 2](#)                   | 2021/22 | Description of the item in the list                          |
-| [Survival Analysis](#)                         | 2021/22 | Description of the item in the list                          |
-| [Financial Economics](#)                       | 2021/22 | Description of the item in the list                          |
-| [Mathematics of Derivatives](#)                | 2021/22 | Description of the item in the list                          |
-| [Time Seies Modelling & Simulation](#)         | 2021/22 | Description of the item in the list                          |
-| [Stochastic Processes](#)                      | 2021/22 | Description of the item in the list                          |
-| [Actuarial Practice 2](#)                      | 2021/22 | Description of the item in the list                          |
-| [Financial Modelling](#)                       | 2021/22 | Description of the item in the list                          |
+| Course Name                                    | Year    |
+|-------------------------------------------     | ------- |
+| [Business Economics](#)                        | 2019/20 |
+| [Financial Mathematics](#)                     | 2019/20 |
+| [Actuarial Practice 1](#)                      | 2019/20 | 
+| [Linear Mathematics](#)                        | 2019/20 | 
+| [Mathematical Methods I and II](#)             | 2019/20 | 
+| [Probability](#)                               | 2019/20 | 
+| [Statistics](#)                                | 2019/20 | 
+| [Actuarial Mathematics 1](#)                   | 2020/21 | 
+| [Corporate Finance for Actuaries](#)           | 2020/21 | 
+| [Financial Reports and Analysis](#)            | 2020/21 | 
+| [Applied Statistical Modelling](#)             | 2020/21 | 
+| [Mathematical Statistics](#)                   | 2020/21 | 
+| [Statistics for Insurance](#)                  | 2020/21 | 
+| [Linear Partial Differential Equations](#)     | 2020/21 | 
+| [Optimisation with Financial Applications](#)  | 2020/21 | 
+| [Actuarial Mathematics 2](#)                   | 2021/22 | 
+| [Survival Analysis](#)                         | 2021/22 | 
+| [Financial Economics](#)                       | 2021/22 | 
+| [Mathematics of Derivatives](#)                | 2021/22 |
+| [Time Seies Modelling & Simulation](#)         | 2021/22 |
+| [Stochastic Processes](#)                      | 2021/22 |
+| [Actuarial Practice 2](#)                      | 2021/22 |
+| [Financial Modelling](#)                       | 2021/22 |
 
 
 
