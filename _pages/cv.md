@@ -48,7 +48,6 @@ Internship
   
 Skills
 ======
-* Statistics
 * Programming
   * VBA
   * Python
@@ -61,4 +60,6 @@ Skills
 Voluntary Work
 ======
 * Youth Leader at church
+* Head Girl
+* Crochet Volunteer
   
