@@ -15,6 +15,11 @@ Education
 * B.S. in Actuarial Science, University of Kent, 2022
 * M.S. in Quantitative Finance, Bayes Business School, Formerly CASS, 2024
 
+Exemptions & Certifications
+=====
+* Actuarial Statistics - CS1 from the Institute and Faculty of Actuaries (IFoA)
+* Survial Analysis and Risk modelling - CS2 from the Institute and Faculty of Actuaries (IFoA)
+
 
 
 Traineeship
