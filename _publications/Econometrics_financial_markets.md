@@ -10,7 +10,7 @@ paperurl: 'http://gnal2.github.io/files/GROUP1_ECONOMETRICS OF FINANCIAL MARKETS
 Unveiling Hidden Connections in Stock Markets: A Foundations of Econometrics Coursework Deep Dive
 ====
 
-In this group coursework for MSc in FM/MTF/QF, we'll embark on a journey to uncover intricate relationships within financial markets. Using OxMetrics9, we'll analyze a rich dataset of four daily stock price indices spanning two decades. Get ready to flex your econometrics muscles as we tackle these exciting challenges:
+In this group coursework for MQF, we'll embark on a journey to uncover intricate relationships within financial markets. Using OxMetrics9, we'll analyze a rich dataset of four daily stock price indices spanning two decades. Get ready to flex your econometrics muscles as we tackle these exciting challenges:
 
 The coursework outlines five key tasks for students to complete:
 
