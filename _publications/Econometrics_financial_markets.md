@@ -24,5 +24,5 @@ GARCH and MGARCH Models: This section involves estimating GARCH (Generalized Aut
 * Alternative Volatility Measures: An essay will be required on alternative measures of volatility, with a specific focus on realized volatility. Students will discuss the pros and cons of this measure, referencing the work of Blair, Poon, and Taylor (2001) and Andersen and Benzoni (2008). An empirical application using high-frequency data will complement the essay.
 
 
-[View paper here](http://gnal2.github.io/files/Econometrics Coursework.pdf)
+[View paper here](http://gnal2.github.io/files/GROUP1_ECONOMETRICS OF FINANCIAL MARKETS_COURSEWORK.pdf)
 
