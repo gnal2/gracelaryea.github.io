@@ -5,7 +5,7 @@ permalink: /publication/Econometrics_financial_markets
 excerpt: 'Econometrics of financial markets coursework - This coursework for the MSc in Quantitative Finance dives into econometrics of financial markets, specifically focusing on foreign exchange rates. The provided data covers daily exchange rates for four major currencies against the Euro from September 2003 to September 2023.'
 date: 2023-12-01
 venue: 'Spring Assessment_Econometrics'
-paperurl: 'http://gnal2.github.io/files/Econometrics Coursework.pdf'
+paperurl: 'http://gnal2.github.io/files/GROUP1_ECONOMETRICS OF FINANCIAL MARKETS_COURSEWORK.pdf'
 ---
 Unveiling Hidden Connections in Stock Markets: A Foundations of Econometrics Coursework Deep Dive
 ====
