@@ -7,7 +7,7 @@ instruments using historical data for five stocks (INTC, JPM, AA, PG, MSFT) from
 We explore the risk-return profile of an equally weighted portfolio, construct a risk 
 parity portfolio for balanced risk allocation, and delve into the Value at Risk (VaR) and 
 Expected Shortfall (ES) of an options portfolio.'
-date: 2024-03-01
+date: 2024-03-18
 venue: 'Spring Assessment_Risk_Analysis'
 paperurl: 'http://gnal2.github.io/files/Risk_Analysis_Coursework_Group_2 (2).pdf'
 ---
