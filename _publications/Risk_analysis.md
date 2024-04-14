@@ -2,15 +2,19 @@
 title: "SMM272 - Risk analysis"
 collection: publications
 permalink: /publication/Risk_analysis
-excerpt: 'This analysis investigates various risk management techniques for financial instruments using historical data for five stocks (INTC, JPM, AA, PG, MSFT) from 2014 to 2023. We explore the risk-return profile of an equally weighted portfolio, construct a risk parity portfolio for balanced risk allocation, and delve into the Value at Risk (VaR) and Expected Shortfall (ES) of an options portfolio.'
+excerpt: 'This analysis investigates various risk management techniques for financial 
+instruments using historical data for five stocks (INTC, JPM, AA, PG, MSFT) from 2014 to 2023.
+We explore the risk-return profile of an equally weighted portfolio, construct a risk 
+parity portfolio for balanced risk allocation, and delve into the Value at Risk (VaR) and 
+Expected Shortfall (ES) of an options portfolio.'
 date: 2024-03-01
 venue: 'Spring Assessment_Risk_Analysis'
 paperurl: 'http://gnal2.github.io/files/Risk_Analysis_Coursework_Group_2 (2).pdf'
 ---
 Understanding Value at Risk (VaR) and Expected shortfall (ES) of various assets
 ====
-This analysis explores various risk management concepts applied to financial instruments. We will utilize a dataset containing historical prices for five stocks (INTC, JPM, AA, PG, MSFT) from 2014 to 2023.
 
+This analysis explores various risk management concepts applied to financial instruments. We will utilize a dataset containing historical prices for five stocks (INTC, JPM, AA, PG, MSFT) from 2014 to 2023.
 Question 1: Statistical Analysis of an Equally Weighted Portfolio
 * We construct an equally weighted portfolio with the five stocks and analyze its return characteristics.
 * Value at Risk (VaR) is estimated at different confidence levels using a rolling window approach to assess potential portfolio losses.
