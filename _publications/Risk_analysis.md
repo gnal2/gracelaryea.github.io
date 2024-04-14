@@ -11,7 +11,8 @@ date: 2024-03-18
 venue: 'Spring Assessment_Risk_Analysis'
 paperurl: 'http://gnal2.github.io/files/Risk_Analysis_Coursework_Group_2 (2).pdf'
 ---
-Understanding Value at Risk (VaR) and Expected shortfall (ES) of various assets
+Understanding Value at Risk (VaR) and Expected shortfall (ES) of 
+various assets
 ====
 
 This analysis explores various risk management concepts applied to financial instruments. We will utilize a dataset containing historical prices for five stocks (INTC, JPM, AA, PG, MSFT) from 2014 to 2023.
