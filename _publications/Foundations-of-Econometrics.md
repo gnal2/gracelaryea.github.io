@@ -7,10 +7,10 @@ date: 2023-12-01
 venue: 'Econometrics I'
 paperurl: 'http://gnal2.github.io/files/Econometrics_I_Coursework.pdf'
 ---
-Unveiling Hidden Connections in Stock Markets: A Foundations of Econometrics Coursework Deep Dive
+Unveiling Hidden Connections in Stock Markets:Econometrics Coursework Deep Dive
 ====
 
-In this group coursework for MSc in FM/MTF/QF, we'll embark on a journey to uncover intricate relationships within financial markets. Using OxMetrics9, we'll analyze a rich dataset of four daily stock price indices spanning two decades. Get ready to flex your econometrics muscles as we tackle these exciting challenges:
+In this group coursework for MSc, we'll embark on a journey to uncover intricate relationships within financial markets. Using OxMetrics9, we'll analyze a rich dataset of four daily stock price indices spanning two decades. Get ready to flex your econometrics muscles as we tackle these exciting challenges:
 
 * Data Transformation and Stationarity: We'll carefully prepare the data, transforming it into quarterly averages and logarithmic form, before assessing its stationarity using unit root tests.
 * Model Specification and Selection: We'll explore a range of autoregressive distributed lags (ADL) models to capture the relationship between EURO STOXX 50 and NIKKEI 225, meticulously selecting the best fit based on misspecification tests.
