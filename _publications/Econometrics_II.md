@@ -10,19 +10,5 @@ paperurl: 'http://gnal2.github.io/files/GROUP1_ECONOMETRICS_II.pdf'
 Unveiling Hidden Connections in Stock Markets:Econometrics II Coursework Deep Dive
 ====
 
-In this group coursework for MQF, we'll embark on a journey to uncover intricate relationships within financial markets.
-
-The coursework outlines five key tasks for students to complete:
-
-* Data Transformation and Order of Integration: Students will aggregate daily data into quarterly averages, transform them into natural logarithms, and test for stationarity using unit root tests.
-
-* Multivariate Cointegration Analysis: Employing the Johansen approach, students will identify the number of cointegrated relationships between the transformed exchange rate series.
-GARCH and MGARCH Models: This section involves estimating GARCH (Generalized Autoregressive Conditional Heteroscedasticity) and MGARCH (Multivariate GARCH) models for the daily exchange rate data in logarithmic form.
-
-* Testing for Contagion: Weekly aggregated and transformed exchange rate data will be used to test for contagion effects, particularly from the US Dollar to other currencies. Students will analyze these effects based on the studies by Forbes and Rigobon (2002) and Frey, Martin, and Tang (2010).
-
-* Alternative Volatility Measures: An essay will be required on alternative measures of volatility, with a specific focus on realized volatility. Students will discuss the pros and cons of this measure, referencing the work of Blair, Poon, and Taylor (2001) and Andersen and Benzoni (2008). An empirical application using high-frequency data will complement the essay.
-
-
 [View paper here](http://gnal2.github.io/files/GROUP1_ECONOMETRICS OF FINANCIAL MARKETS_COURSEWORK.pdf)
 
