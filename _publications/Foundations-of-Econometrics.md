@@ -2,10 +2,10 @@
 title: "Econometrics I"
 collection: publications
 permalink: /publication/Foundations-of-Econometrics
-excerpt: 'Foundations of Econometrics coursework - This group project tackles real-world stock market data: daily prices, complex models, and rigorous testing. Expect data transformations, stationarity checks, cointegration mysteries, and Granger causality investigations. Prepare to wield econometrics tools like ADL, GARCH, and LM tests to unlock hidden relationships and navigate market complexities. Eight pages of intensive analysis await!'
+excerpt: 'Econometrics I coursework - This group project tackles real-world stock market data: daily prices, complex models, and rigorous testing. Expect data transformations, stationarity checks, cointegration mysteries, and Granger causality investigations. Prepare to wield econometrics tools like ADL, GARCH, and LM tests to unlock hidden relationships and navigate market complexities. Eight pages of intensive analysis await!'
 date: 2023-12-01
-venue: 'Fall Assessment_ Foundations of Econometrics'
-paperurl: 'http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf'
+venue: 'Econometrics I'
+paperurl: 'http://gnal2.github.io/files/Econometrics_I_Coursework.pdf'
 ---
 Unveiling Hidden Connections in Stock Markets: A Foundations of Econometrics Coursework Deep Dive
 ====
