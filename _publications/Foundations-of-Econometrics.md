@@ -1,5 +1,5 @@
 ---
-title: "SMM270 - Foundations of Econometrics"
+title: "Foundations of Econometrics"
 collection: publications
 permalink: /publication/Foundations-of-Econometrics
 excerpt: 'Foundations of Econometrics coursework - This group project tackles real-world stock market data: daily prices, complex models, and rigorous testing. Expect data transformations, stationarity checks, cointegration mysteries, and Granger causality investigations. Prepare to wield econometrics tools like ADL, GARCH, and LM tests to unlock hidden relationships and navigate market complexities. Eight pages of intensive analysis await!'
