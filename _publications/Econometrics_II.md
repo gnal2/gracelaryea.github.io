@@ -10,5 +10,5 @@ paperurl: 'http://gnal2.github.io/files/GROUP1_ECONOMETRICS_II.pdf'
 Unveiling Hidden Connections in Stock Markets:Econometrics II Coursework Deep Dive
 ====
 
-[View paper here](http://gnal2.github.io/files/GROUP1_ECONOMETRICS OF FINANCIAL MARKETS_COURSEWORK.pdf)
+[View paper here](http://gnal2.github.io/files/GROUP1_ECONOMETRICS_II.pdf)
 
