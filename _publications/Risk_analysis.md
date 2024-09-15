@@ -1,5 +1,5 @@
 ---
-title: "SMM272 - Risk analysis"
+title: "Risk analysis"
 collection: publications
 permalink: /publication/Risk_analysis
 excerpt: 'This analysis investigates various risk management techniques for financial 
