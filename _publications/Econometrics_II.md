@@ -1,13 +1,13 @@
 ---
 title: "Econometrics II "
 collection: publications
-permalink: /publication/Econometrics_financial_markets
+permalink: /publication/Econometrics_II
 excerpt: 'Econometrics II coursework - This coursework for the MSc in Quantitative Finance dives into econometrics of financial markets, specifically focusing on foreign exchange rates. The provided data covers daily exchange rates for four major currencies against the Euro from September 2003 to September 2023.'
 date: 2024-03-29
 venue: 'Spring Assessment_Econometrics'
-paperurl: 'http://gnal2.github.io/files/GROUP1_ECONOMETRICS_COURSEWORK.pdf'
+paperurl: 'http://gnal2.github.io/files/GROUP1_ECONOMETRICS_II.pdf'
 ---
-Unveiling Hidden Connections in Stock Markets: A Foundations of Econometrics Coursework Deep Dive
+Unveiling Hidden Connections in Stock Markets:Econometrics II Coursework Deep Dive
 ====
 
 In this group coursework for MQF, we'll embark on a journey to uncover intricate relationships within financial markets. Using OxMetrics9, we'll analyze a rich dataset of four daily stock price indices spanning two decades. Get ready to flex your econometrics muscles as we tackle these exciting challenges:
