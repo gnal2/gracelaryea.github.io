@@ -1,5 +1,5 @@
 ---
-title: "MA306 - Statistics"
+title: "Statistics"
 collection: publications
 permalink: /publication/Statistics Assessment
 excerpt: 'In my first year assessment at the University of Kent, I explored the intriguing world of UK elections. My report delved into the relationship between vote share and seat power, the age group dominating politics, and the link between party success and female representation. Get ready for surprising insights into the historical trends and dynamics of UK elections!'
