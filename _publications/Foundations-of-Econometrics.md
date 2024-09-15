@@ -19,4 +19,4 @@ In this group coursework for MSc in FM/MTF/QF, we'll embark on a journey to unco
 * ARCH and GARCH Modeling: We'll delve into volatility modeling using ARCH and GARCH techniques, accounting for time-varying conditional variances and enhancing risk management strategies
 
 
-[View paper here](http://gnal2.github.io/files/Foundations of Econometrics Coursework.pdf)
+[View paper here](http://gnal2.github.io/files/Econometrics_I_Coursework.pdf)
